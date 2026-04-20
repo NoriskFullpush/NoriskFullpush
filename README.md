@@ -30,7 +30,7 @@
 |---------|-------------|--------|
 | [Q-COST AI APP](https://github.com/factormatrix/Capstone) | AI-powered quality cost analysis system for SMEs built with Streamlit, ML models, and Gemini API | ✅ Completed |
 | [Web Fundamentals Practice](https://github.com/factormatrix) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
-| SAP Mock Implementation | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
+| [SAP Mock Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
 
 ---
 
