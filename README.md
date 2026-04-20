@@ -32,6 +32,9 @@
 | [Web Fundamentals Practice](https://github.com/factormatrix) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
 | [SAP ERP Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
 
+## 🚀 Projects
+
+[![SAP ABAP](https://github-readme-stats.vercel.app/api/pin/?username=NoriskFullpush&repo=ABAP&theme=algolia)](https://github.com/NoriskFullpush/ABAP)
 ---
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
