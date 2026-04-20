@@ -28,8 +28,8 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Q-COST AI APP](https://github.com/factormatrix/Capstone) | AI-powered quality cost analysis system for SMEs built with Streamlit, ML models, and Gemini API | ✅ Completed |
-| [Web Fundamentals Practice](https://github.com/factormatrix) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
+| [Q-COST AI APP](https://github.com/NoriskFullpush/Capstone) | AI-powered quality cost analysis system for SMEs built with Streamlit, ML models, and Gemini API | ✅ Completed |
+| [Web Fundamentals Practice](https://github.com/NoriskFullpush/HTML/CSS/Javascriptstudy) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
 | [SAP ERP Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
 
 
@@ -48,6 +48,7 @@
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
+
 <a href="mailto:dlgywns0816@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-dlgywns0816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
