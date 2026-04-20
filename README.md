@@ -29,7 +29,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Q-COST AI APP](https://github.com/NoriskFullpush/Capstone) | AI-powered quality cost analysis system for SMEs built with Streamlit, ML models, and Gemini API | ✅ Completed |
-| [Web Fundamentals Practice](https://github.com/NoriskFullpush/HTML/CSS/Javascriptstudy) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
+| [Web Fundamentals Practice](https://github.com/NoriskFullpush/Javascript_study) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
 | [SAP ERP Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
 
 
