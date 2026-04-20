@@ -48,7 +48,6 @@
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
-<p align="center">
 <a href="mailto:dlgywns0816@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-dlgywns0816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
