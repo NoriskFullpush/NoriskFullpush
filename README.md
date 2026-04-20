@@ -32,9 +32,22 @@
 | [Web Fundamentals Practice](https://github.com/factormatrix) | HTML / CSS / JavaScript basic syntax study and practice | ✅ Completed |
 | [SAP ERP Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP system mock build project covering core ERP modules | 🔜 Upcoming |
 
+
 ---
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div align="center">
+<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia&exclude_repo=NoriskFullpush.github.io" alt="NoriskFullpush-langs"/>
+<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia" alt="NoriskFullpush-tn-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NoriskFullpush&theme=algolia&background=0d1117&hide_border=true" />
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=NoriskFullpush&theme=react-dark"/>-->
+
+---
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
 <p align="center">
 <a href="mailto:dlgywns0816@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-dlgywns0816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -43,19 +56,6 @@
 <a href="mailto:hjun1503@ajou.ac.kr">
   <img src="https://img.shields.io/badge/Ajou-hjun1503@ajou.ac.kr-0054A6?style=flat-square&logo=academia&logoColor=white"/>
 </a>
-
----
-
-<div align="center">
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
-<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia&exclude_repo=NoriskFullpush.github.io" alt="NoriskFullpush-langs"/>
-<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia" alt="NoriskFullpush-tn-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NoriskFullpush&theme=algolia&background=0d1117&hide_border=true" />
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=NoriskFullpush&theme=react-dark"/>-->
-  
 </div>
 
 <!--
