@@ -41,8 +41,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Github Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia&exclude_repo=NoriskFullpush.github.io" alt="NoriskFullpush-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=NoriskFullpush&layout=compact&show_icon=true&theme=algolia" alt="NoriskFullpush-tn-stats"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=NoriskFullpush&layout=compact&theme=algolia" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=NoriskFullpush&show_icon=true&theme=algolia" height="150" />
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NoriskFullpush&theme=algolia&background=0d1117&hide_border=true" />
