@@ -35,6 +35,7 @@
 |---------|-------------|------------|--------|
 | [Q-COST AI APP](https://github.com/NoriskFullpush/Capstone) | AI-powered quality cost analysis system for SMEs, capturing enterprise financial and quality data. | Python, Streamlit, Gemini API | ✅ Completed |
 | [Web Fundamentals Practice](https://github.com/NoriskFullpush/Javascript_study) | HTML / CSS / JavaScript basic syntax study, layouts, and DOM manipulation practice. | HTML5, CSS3, JavaScript | ✅ Completed |
+| [SAP ERP Study(Easy ABAP 3.0)](https://github.com/NoriskFullpush/ABAP) | Study with Easy ABAP 3.0 book , Upload using ABAPGIT | ABAP, SAP GUI, abapGit | 🏃 In Progress |
 | [SAP ERP Implementation](https://github.com/NoriskFullpush/ABAP) | Full SAP mock build project covering custom tables, Open SQL, and ALV Report programs managed via abapGit. | ABAP, SAP GUI, abapGit | 🏃 In Progress |
 
 ---
