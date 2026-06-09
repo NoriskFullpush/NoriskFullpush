@@ -42,12 +42,12 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Github Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoriskFullpush&theme=algolia" height="150" alt="GitHub Details" />
-
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=NoriskFullpush&show_icons=true&theme=github_dark" alt="stats"/>
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=NoriskFullpush&theme=github_dark" alt="stats"/>
 </div>
-
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NoriskFullpush&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoriskFullpush&layout=compact&theme=github_dark" alt="stats"/>
+</div>
 </div>
 
 ---
