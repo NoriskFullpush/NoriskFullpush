@@ -1,4 +1,4 @@
-# <div align="center"> Hi there, I'm HyoJun 👋
+# <div align="center"> Hi, I'm HyoJun 👋
 
 ### <div align="center"> **Ajou University student interested in SAP ABAP & Supply Chain Management(SCM)**
 
