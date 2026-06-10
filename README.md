@@ -64,6 +64,5 @@
 </div>
 
 ---
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
 
 Last Edited on: 05/18/2026
